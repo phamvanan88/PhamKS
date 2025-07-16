@@ -16,20 +16,17 @@ Uploading code and pairing with HomeKit
 Viewing real-time sensor data on your iPhone
 
 📦 Hardware Used:
-
 ESP32 board (e.g. ESP32-S3, WROOM, or similar)
-
-DHT22 or BME280 sensor
-
+DHT22 or BMP/BME280 sensor
 Breadboard, jumper wires
 
-📲 Code & Schematics:
-<img width="1122" height="793" alt="image" src="https://github.com/user-attachments/assets/daa17703-bb8e-4a84-90ee-9ab62f1e0637" />
+📲 Schematics:
 
-💬 Questions? Drop them in the comments!
-
-🔔 Don’t forget to LIKE 👍 and SUBSCRIBE for more ESP32 + HomeKit projects!
-
-#ESP32 #HomeKit #DIYHomeAutomation #SmartHome #AppleHomeKit #TemperatureSensor #HumiditySensor #HomeSpan #IoTProject #ESP32Projects #ArduinoHomeKit #DIYIoT
-
+ESP32 S3 Super mini pin diagram:
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/124ad574-9421-4bfa-9655-429d20c87f5d" />
+Wiring diagram:
+<img width="1035" height="576" alt="image" src="https://github.com/user-attachments/assets/b1b36f8a-5d41-420a-ab91-f1819b06b6dd" />
+=> Monitor temperature and humidity parameters on the Home Iphone application
 <img width="626" height="545" alt="image" src="https://github.com/user-attachments/assets/533c2723-e65b-4e8f-801b-e25359043386" />
+
+
